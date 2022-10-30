@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - .collabignore
+    - Assets/Material.meta
+    - Assets/Material/DeadLine.mat
+    - Assets/Material/DeadLine.mat.meta
+    - Assets/Material/Empty Material.mat
+    - Assets/Material/Empty Material.mat.meta
+    - Assets/Material/Ghost.mat
+    - Assets/Material/Ghost.mat.meta
+    - Assets/Material/HardBox.mat
+    - Assets/Material/HardBox.mat.meta
+    - Assets/Material/ITetromino.mat
+    - Assets/Material/ITetromino.mat.meta
+    - Assets/Material/JTetromino.mat
+    - Assets/Material/JTetromino.mat.meta
+    - Assets/Material/LTetromino.mat
+    - Assets/Material/LTetromino.mat.meta
+    - Assets/Material/OTetromino.mat
+    - Assets/Material/OTetromino.mat.meta
+    - Assets/Material/STetromino.mat
+    - Assets/Material/STetromino.mat.meta
+    - Assets/Material/TTetromino.mat
+    - Assets/Material/TTetromino.mat.meta
+    - Assets/Material/Wall Material.mat
+    - Assets/Material/Wall Material.mat.meta
+    - Assets/Material/ZTetromino.mat
+    - Assets/Material/ZTetromino.mat.meta
+    - Assets/Material/sky.mat
+    - Assets/Material/sky.mat.meta
+    - Assets/Prefabs.meta
+    - Assets/Prefabs/Empty.prefab
+    - Assets/Prefabs/Empty.prefab.meta
+    - Assets/Prefabs/Wall.prefab
+    - Assets/Prefabs/Wall.prefab.meta
+    - Assets/Resources.meta
+    - Assets/Resources/Sound.meta
+    - Assets/Resources/Sound/02. Game Theme.mp3
+    - Assets/Resources/Sound/02. Game Theme.mp3.meta
+    - Assets/Resources/Sound/drop.wav
+    - Assets/Resources/Sound/drop.wav.meta
+    - Assets/Resources/Sound/line.WAV
+    - Assets/Resources/Sound/line.WAV.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/Battle.unity
+    - Assets/Scenes/Battle.unity.meta
+    - Assets/Scenes/Tetris.unity
+    - Assets/Scenes/Tetris.unity.meta
+    - Assets/Scenes/Title.unity
+    - Assets/Scenes/Title.unity.meta
+    - Assets/Scripts.meta
+    - Assets/Scripts/CGameManager.cs
+    - Assets/Scripts/CGameManager.cs.meta
+    - Assets/Scripts/MenuController.cs
+    - Assets/Scripts/MenuController.cs.meta
+    - Assets/Scripts/RenderBoard.cs
+    - Assets/Scripts/RenderBoard.cs.meta
+    - Assets/Scripts/SceneMG.cs
+    - Assets/Scripts/SceneMG.cs.meta
+    - Assets/Scripts/SoundManager.cs
+    - Assets/Scripts/SoundManager.cs.meta
+    - Assets/Scripts/TetrisDataBoard.cs
+    - Assets/Scripts/TetrisDataBoard.cs.meta
+    - Assets/Scripts/Tetromino.cs
+    - Assets/Scripts/Tetromino.cs.meta
+    - Assets/Scripts/UiManager.cs
+    - Assets/Scripts/UiManager.cs.meta
+    - Assets/tetris.meta
+    - Assets/tetris/LightingData.asset
+    - Assets/tetris/LightingData.asset.meta
+    - Assets/tetris/ReflectionProbe-0.exr
+    - Assets/tetris/ReflectionProbe-0.exr.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/AudioManager.asset
+    - ProjectSettings/ClusterInputManager.asset
+    - ProjectSettings/DynamicsManager.asset
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/EditorSettings.asset
+    - ProjectSettings/GraphicsSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/NavMeshAreas.asset
+    - ProjectSettings/Physics2DSettings.asset
+    - ProjectSettings/PresetManager.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/QualitySettings.asset
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/TimeManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VFXManager.asset
+    - ProjectSettings/VersionControlSettings.asset
+    - 
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
